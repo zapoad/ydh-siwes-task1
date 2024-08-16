@@ -8,3 +8,5 @@ I am also focused on communicating complex data insights effectively through cle
  I’m interested in learning more about Data Analysis
  
 Contact : https://x.com/PromiseAyo001 , www.linkedin.com/in/promise-ayo-55624b321 , https://medium.com/@promiseayo003
+# For task 2 
+The report is an analysis on website traffic and user engagement data.
